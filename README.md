@@ -25,5 +25,24 @@
 <li>Filter data.</li>
 </ul>
 <hr>
+
+<h1>Setup</h1>
+<h2>Download/Clone</h2>
+<a>https://github.com/sivasakthi16/CSV-Stats.git</a>
+
+<h2>Requirements:</h2>
+<ul>
+<li>Python 3.11</li>
+<li>PandasAI</li>
+<li>Streamlit</li>
+</ul>
+
+<h2>Installing dependenices:</h2>
+<p style="color:blue">pip install pandasai streamlit</p>
+
+<h2>Running:</h2>
+<p style="color:blue">streamlit run home.py</p>
+
+<hr>
 <h2>Conclusion:</h2>
 <p>The CSV Data Analyzer provides a simple yet powerful tool for performing statistical analysis and visualizing CSV data. Whether you're a data scientist, analyst, or researcher, this application makes it easy to gain insights from your data quickly and effectively.</p>
