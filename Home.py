@@ -13,7 +13,7 @@ class Home:
             with st.spinner('Loading...'):
                 try:
                     self.pd.createAgent(data)
-                    response = self.pd.query(query)
+                    response = self.pd.query(query+'.')
                     if type(response) == str and '.png' in response:
                         st.markdown(
                             '''<h4>Result:</h4>''',
