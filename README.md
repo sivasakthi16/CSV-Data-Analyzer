@@ -38,10 +38,10 @@
 </ul>
 
 <h2>Installing dependenices:</h2>
-<p style="color:blue">pip install pandasai streamlit</p>
+<p style="color:blue;">pip install pandasai streamlit</p>
 
 <h2>Running:</h2>
-<p style="color:blue">streamlit run home.py</p>
+<p style="color:blue;">streamlit run home.py</p>
 
 <hr>
 <h2>Conclusion:</h2>
