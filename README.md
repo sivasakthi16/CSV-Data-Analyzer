@@ -28,7 +28,7 @@
 
 <h1>Setup</h1>
 <h2>Download/Clone</h2>
-<a href="https://github.com/sivasakthi16/CSV-Stats.gi">https://github.com/sivasakthi16/CSV-Stats.git</a>
+<a href="https://github.com/sivasakthi16/CSV-Stats">https://github.com/sivasakthi16/CSV-Stats</a>
 
 <h2>Requirements:</h2>
 <ul>
