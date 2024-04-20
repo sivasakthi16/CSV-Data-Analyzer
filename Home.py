@@ -23,6 +23,10 @@ class Home:
                         if os.path.exists(file_path):
                             os.remove(file_path)
 
+                    elif type(response) == str and 'Unfortunately, I was not able to answer your question, because of the following error:' in response:
+                        st.markdown(
+                            '''<div style="border-radius: .5rem;background: #ff00001a;padding: 1rem;color: rgb(55, 59, 55);font-size: 24px;"><span>⚠️ Some error occurred! Try again.</span></div>''',
+                            unsafe_allow_html=True)
                     else:
                         st.markdown(
                             '''<h4>Result:</h4>''',
