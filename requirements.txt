@@ -1,3 +1,5 @@
+#for streamlit cloud
 pandasai
 streamlit
 pyyaml
+scikit-learn
